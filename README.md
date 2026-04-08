@@ -168,3 +168,28 @@
 - **Выбор материала:** AISI 316L из-за ударной вязкости и высокой ремонтопригодности.
 - **Защита:** Нижняя кромка руля на 200 мм выше подошвы киля, что защищает его при посадке на мель.
 - **Плечо рычага:** Установка на 10.95 м обеспечивает оптимальный момент для маневрирования.
+
+# Snapshot #6: Rusibra Bridge Beams Construction
+# Снапшот №6: Конструкция силовых балок моста Rusibra
+
+## EN: Bridge Beam Specifications
+- **Geometry:** Square box section (Hollow beam).
+- **Core Material:** Laminated plywood walls with internal stiffeners (ribs).
+- **End Inserts:** Solid timber blocks at attachment points for compression resistance (stud mounting zones).
+- **Assembly:** Bonded with epoxy resin and reinforced with fiberglass (2-3 layers externally).
+
+## RU: Спецификация балок моста
+- **Геометрия:** Квадратное коробчатое сечение (пустотелая балка).
+- **Материал стенок:** Ламинированная фанера с внутренними ребрами жесткости.
+- **Закладные элементы:** Цельный брус в торцах балок для сопротивления сжатию в зонах крепления шпильками.
+- **Сборка:** Проклейка эпоксидной смолой и внешнее армирование стеклотканью в 2-3 слоя.
+
+## EN: Structural Rationale
+- **Box Section:** High torsional and bending stiffness-to-weight ratio.
+- **Solid Inserts:** Prevents plywood crushing under high torque of the mounting studs.
+- **Composite Skin:** Provides environmental protection and additional structural integrity.
+
+## RU: Конструкторское обоснование
+- **Коробчатое сечение:** Высокая жесткость на кручение и изгиб при малом весе.
+- **Цельные вставки:** Предотвращают смятие фанеры под высоким моментом затяжки крепежных шпилек.
+- **Композитная оболочка:** Обеспечивает защиту от внешней среды и дополнительную монолитность конструкции.
