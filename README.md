@@ -243,3 +243,16 @@
 - **Ширина по ватерлинии:** 1.1 м.
 - **Макс. ширина с «губой»:** 1.4 м.
 - **Примечание:** Общий габарит 6.7 м обеспечивает оптимальный восстанавливающий момент для судна длиной 11.8 м.
+
+# Snapshot #10: Bow Structure & Longitudinal Stringer
+# Снапшот №10: Носовая структура и продольный стрингер
+
+## EN: Bow Section Configuration
+- **Longitudinal Stringer:** A central beam connecting Beam #1 and Beam #2.
+- **Trampoline Setup:** Dual-net configuration. Nets are stretched between the hulls and the central stringer (not hull-to-hull).
+- **Function:** Stabilizes the bow against forestay tension and provides a rigid mounting point for anchoring systems.
+
+## RU: Конфигурация носовой секции
+- **Продольный стрингер:** Центральная балка, соединяющая Балку №1 и Балку №2.
+- **Устройство батута:** Двухсеточная конфигурация. Сетки натягиваются между поплавками и центральным стрингером (а не от поплавка до поплавка).
+- **Функция:** Стабилизирует нос против натяжения форштага и обеспечивает жесткую точку крепления для якорных систем.
