@@ -100,3 +100,40 @@
 - **Длина 3.5 м:** Баланс между курсовой устойчивостью и маневренностью в маринах.
 - **Наклон 45°:** Предотвращает наматывание сетей и снижает ударные нагрузки при столкновении с препятствиями.
 - **Переменная толщина:** Максимальная прочность в узле крепления при минимальном гидродинамическом сопротивлении.
+
+# Snapshot #4: Rusibra Steering System Specification
+# Снапшот №4: Спецификация системы рулевого управления Rusibra
+
+## EN: Steering System Technical Data
+- **Type:** Semi-balanced spade rudder (18-20% balance to reduce helm pressure).
+- **Rudder Blade:** Dimensions 1.0 x 0.5 m, Foil profile NACA 0012 (Symmetrical).
+- **Rudder Stock (Shaft):** AISI 316L Stainless Steel, Tube 60x5 mm.
+- **Bearings:** Polymer sliding bearings (Caprolon/POM-C).
+- **Position:** Stock center at 10.95 m from the bow (integrated with frame 10.9).
+
+## RU: Технические данные системы рулевого управления
+- **Тип:** Полуподвесной балансирный руль (Балансировка 18-20% для снижения нагрузки на штурвале).
+- **Перо руля:** Размеры 1.0 х 0.5 м, Профиль NACA 0012 (Симметричный).
+- **Баллер:** Нержавеющая сталь AISI 316L, Труба 60x5 мм.
+- **Подшипники:** Полимерные подшипники скольжения (Капролон/ПОМ-С).
+- **Позиция:** Центр баллера на отметке 10.95 м от форштевня (интеграция со шпангоутом 10.9).
+
+## EN: Structural Components
+- **Rudder Trunk:** Heavy-duty fiberglass tube, bonded with epoxy. Top edge is 150 mm above Waterline (WL).
+- **Fixation:** Vertical lock via locking collar and tiller hub.
+- **Tiller:** Removable 1.4 m emergency/primary tiller, through-bolt attachment to the stock head.
+
+## RU: Конструктивные узлы
+- **Гельмпортовая труба:** Толстостенный стеклопластик на эпоксидном компаунде. Верхний срез на 150 мм выше ватерлинии (ВЛ).
+- **Фиксация:** Вертикальная фиксация стопорным кольцом и ступицей румпеля.
+- **Румпель:** Съемный, длина 1.4 м, крепление сквозным болтом к голове баллера (основное или аварийное управление).
+
+## EN: Rationale & Safety
+- **Material Choice:** AISI 316L for impact toughness and reparability.
+- **Safety Margin:** Rudder bottom edge is 200 mm above the keel sole, protected from grounding by the main keel.
+- **Leverage:** Positioning at 10.95 m provides an optimal lever arm for maneuverability.
+
+## RU: Обоснование и безопасность
+- **Выбор материала:** AISI 316L из-за ударной вязкости и высокой ремонтопригодности.
+- **Защита:** Нижняя кромка руля на 200 мм выше подошвы киля, что защищает его при посадке на мель.
+- **Плечо рычага:** Установка на 10.95 м обеспечивает оптимальный момент для маневрирования.
