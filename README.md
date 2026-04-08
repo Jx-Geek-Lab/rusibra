@@ -368,3 +368,28 @@
 ## RU: 4. Протоколы сборки/разборки
 - **Соединение:** Система двойных шпангоутов в местах крепления балок.
 - **Крепеж:** Шпильки M20, гайки загерметизированы эпоксидкой (рассчитаны на срезание при демонтаже).
+
+# Snapshot #16: Composite Fastening System (Metal-Free)
+# Снапшот №16: Композитная система крепежа (Безметалловая)
+
+## EN: Fastening Hardware
+- **Studs:** Fiberglass (GFRP) or Basalt (BFRP) threaded rods. M20 diameter.
+- **Washers:** Thick G10 / FR4 composite plates or Textolite (structural laminate).
+- **Locking Method:** Composite nuts or sleeves, sealed with epoxy-saturated fiberglass "cocoons".
+- **Disassembly:** Sacrificial design; the outer epoxy/glass head is cut off to release the beam.
+
+## RU: Крепежные элементы
+- **Шпильки:** Стеклопластиковый (GFRP) или базальтопластиковый (BFRP) резьбовой стержень. Диаметр М20.
+- **Шайбы:** Толстые пластины из композита G10 / FR4 или текстолита (конструкционный ламинат).
+- **Метод фиксации:** Композитные гайки или втулки, запечатанные «коконами» из стеклоткани, пропитанной эпоксидной смолой.
+- **Демонтаж:** Жертвенная конструкция; внешний эпоксидно-стеклянный узел срезается для освобождения балки.
+
+## EN: Configuration per Joint
+- 4 Vertical studs (compression/uplift).
+- 4 Horizontal studs (torsion/shear).
+- Total: 8 composite studs per beam end.
+
+## RU: Конфигурация на один узел
+- 4 вертикальных шпильки (сжатие/отрыв).
+- 4 горизонтальных шпильки (кручение/сдвиг).
+- Итого: 8 композитных шпилек на один конец балки.
