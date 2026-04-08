@@ -256,3 +256,24 @@
 - **Продольный стрингер:** Центральная балка, соединяющая Балку №1 и Балку №2.
 - **Устройство батута:** Двухсеточная конфигурация. Сетки натягиваются между поплавками и центральным стрингером (а не от поплавка до поплавка).
 - **Функция:** Стабилизирует нос против натяжения форштага и обеспечивает жесткую точку крепления для якорных систем.
+
+# Snapshot #11: Interior Heights & Bridge Recess
+# Снапшот №11: Внутренняя высота и заглубление моста
+
+## EN: Ergonomics & Height Strategy
+- **Target Height:** 1.8 m in all living areas (hulls and cabin).
+- **Hull Solution:** 20 cm lightweight sandwich superstructures on top of the pontoons to house upper sections of bulkheads and beam attachments.
+- **Cabin Solution:** Central floor recess (20 cm deep, 1.2-2.0 m wide) between the main beams. This allows for standing headroom without increasing total vessel height/windage.
+
+## RU: Энергономика и стратегия высоты
+- **Целевая высота:** 1.8 м во всех жилых зонах (поплавки и рубка).
+- **Решение для поплавков:** Легкие сэндвич-надстройки высотой 20 см над палубой поплавков для размещения верхних частей шпангоутов и узлов крепления балок.
+- **Решение для рубки:** Центральное заглубление пола («корыто») глубиной 20 см и шириной 1.2–2.0 м между основными балками. Это позволяет стоять в полный рост без увеличения общей высоты и парусности судна.
+
+## EN: Hydrodynamic Considerations
+- **Bridge Recess Safety:** The bottom of the recessed floor must be shaped to deflect waves (skid-like profile) to prevent heavy slamming.
+- **Trim & Balance:** Due to the 0.75m bow rocker rise, weight distribution (especially the mast on Beam #4) must be carefully calculated to avoid "nose-diving" in static trim.
+
+## RU: Гидродинамические аспекты
+- **Безопасность заглубления:** Дно заглубленной части пола должно иметь обтекаемую форму («лыжа») для отражения ударов встречной волны (слемминга).
+- **Дифферент и баланс:** Из-за подъема рокера в носу на 0.75 м, распределение веса (особенно мачты на балке №4) требует точного расчета, чтобы избежать дифферента на нос в статике.
