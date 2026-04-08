@@ -298,3 +298,73 @@
 ## RU: Центр парусности и позиционирование
 - **Позиция мачты:** Смещена вперед (Балка №4), сбалансирована длинным 3.5-метровым килем, смещенным в корму.
 - **Конструктивная прочность:** Нагрузка от мачты опирается на самую широкую (40 см) часть кильсона и поддерживается запасом плавучести в 0.65 м в носовой части.
+
+# Snapshot #14: Structural Logic Comparison (Wharram vs Rusibra)
+# Снапшот №14: Сравнение силовой логики (Wharram vs Rusibra)
+
+## EN: Structural Philosophy
+- **Wharram Style:** Uses two beams + bridge deck to compensate for flexible (lashed) hull connections.
+- **Rusibra Style:** Uses a single heavy-duty "Master Beam" (#4) integrated into a rigid 6-beam grid.
+- **Load Distribution:** Mast compression on Beam #4 is shared with Beams #3 and #5 via the rigid cabin floor and longitudinal stringers.
+
+## RU: Силовая философия
+- **Стиль Wharram:** Использует две балки + платформу для компенсации гибких (веревочных) соединений корпусов.
+- **Стиль Rusibra:** Использует одну сверхмощную «Мачтовую балку» (№4), интегрированную в жесткую сетку из 6 балок.
+- **Распределение нагрузки:** Давление мачты на балку №4 распределяется на балки №3 и №5 через жесткий пол рубки и продольные стрингеры.
+
+# Snapshot #15: Rusibra Unified Design & Structural Specs (Current Session)
+# Снапшот №15: Унифицированный дизайн и характеристики Rusibra (Итоги сессии)
+
+## EN: 1. Hull Geometry & Balance (Revised)
+- **LOA:** 11.8 m.
+- **Beam (Individual Hull):** 1.1 m (WL) / 1.4 m (Max with flare).
+- **Overall Beam:** 6.7 m (Working standard).
+- **Rocker Profile:** Asymmetrical balance for forward mast support.
+  - Bow Rise: 0.65 m (optimized for wave-piercing & buoyancy).
+  - Stern Rise: 0.55 m (optimized for flow release).
+- **Keelson Taper:** 40 cm (Center) -> 20 cm (Stern) -> 10 cm (Bow).
+- **Mast Position:** Forward-biased (Beam #4), balanced by a 3.5m aft-set keel and rudder at 10.95m.
+
+## RU: 1. Геометрия корпуса и баланс (Пересмотрено)
+- **Общая длина (LOA):** 11.8 м.
+- **Ширина (Один поплавок):** 1.1 м (ВЛ) / 1.4 м (Макс. с «губой»).
+- **Габаритная ширина:** 6.7 м (Рабочий стандарт).
+- **Профиль рокера:** Асимметричный баланс под переднюю мачту.
+  - Подъем носа: 0.65 м (оптимизация под wave-piercing и плавучесть).
+  - Подъем кормы: 0.55 м (оптимизация под сход потока).
+- **Сужение кильсона:** 40 см (Центр) -> 20 см (Корма) -> 10 см (Нос).
+- **Позиция мачты:** Смещена вперед (Балка №4), сбалансирована 3.5-метровым кормовым килем и рулем на 10.95 м.
+
+## EN: 2. Bridge Structure & Beams
+- **Six-Beam Layout:** Modular system for assembly/disassembly.
+  - Beam #4 (Mast): Heaviest load, integrated into cabin interior (furniture base). Height 250-300mm.
+  - Beams #1, #2, #3, #5, #6: Functional spacing for trampoline, cabin walls, and cockpit.
+- **Construction:** Box-section (plywood + internal ribs + solid timber inserts at ends).
+- **Longitudinal Stringer:** Connects Beams #1 & #2 in the bow for forestay and anchor support.
+
+## RU: 2. Структура моста и балки
+- **Схема из 6 балок:** Модульная система для сборки/разборки.
+  - Балка №4 (Мачтовая): Макс. нагрузка, интегрирована в интерьер рубки (основание мебели). Высота 250-300 мм.
+  - Балки №1, №2, №3, №5, №6: Функциональное зонирование (батут, стенки рубки, кокпит).
+- **Конструктив:** Коробчатое сечение (фанера + ребра + брус в торцах).
+- **Продольный стрингер:** Соединяет балки №1 и №2 в носу для поддержки форштага и якоря.
+
+## EN: 3. Deck & Superstructures
+- **Hull Superstructure:** Raised by 20 cm above pontoons (lightweight sandwich).
+- **Walkways:** 40 cm wide side decks (potopchina) outside the superstructure for safe movement.
+- **Cabin Floor:** Recessed central zone ("the tray") 20 cm deep between beams for 1.8 m interior height.
+- **Roof Construction:** 6 mm plywood (top) + 30 mm insulation (bottom) + internal fiberglass layer. Sealed with epoxy and supported by wooden battens (beams).
+
+## RU: 3. Палуба и надстройки
+- **Надстройка поплавков:** Поднята на 20 см (легкий сэндвич).
+- **Проходы:** Потопчины шириной 40 см по бортам снаружи надстроек.
+- **Пол рубки:** Центральное заглубление («корыто») на 20 см между балками для обеспечения высоты 1.8 м.
+- **Конструкция крыши:** Фанера 6 мм (верх) + 30 мм утеплитель (низ) + внутренний слой стеклоткани. Консервация эпоксидной смолой, опора на бимсы (рейки).
+
+## EN: 4. Assembly/Disassembly Protocols
+- **Connection:** Double frame (bulkhead) system at beam attachment points.
+- **Fastening:** M20 studs with epoxy-sealed nuts (designed to be cut for transport).
+
+## RU: 4. Протоколы сборки/разборки
+- **Соединение:** Система двойных шпангоутов в местах крепления балок.
+- **Крепеж:** Шпильки M20, гайки загерметизированы эпоксидкой (рассчитаны на срезание при демонтаже).
