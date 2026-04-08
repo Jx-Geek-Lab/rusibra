@@ -393,3 +393,26 @@
 - 4 вертикальных шпильки (сжатие/отрыв).
 - 4 горизонтальных шпильки (кручение/сдвиг).
 - Итого: 8 композитных шпилек на один конец балки.
+
+# Snapshot #17: Composite Stud Engineering & Mount Detail
+# Снапшот №17: Инженерия композитных шпилек и узла крепления
+
+## EN: Hardware Selection
+- **Material:** High-temperature dielectric fiberglass threaded rod (GFRP), M20.
+- **Nut System:** Custom-made from structural textolite (STEF) rods or thick plates.
+- **Sealing:** All composite fasteners to be epoxy-bonded and overwrapped with fiberglass tape for permanent locking.
+
+## RU: Выбор крепежа
+- **Материал:** Высокотемпературная диэлектрическая стеклопластиковая шпилька (GFRP), М20.
+- **Система гаек:** Самодельные гайки/втулки из конструкционного текстолита (СТЭФ).
+- **Фиксация:** Весь композитный крепеж вклеивается на эпоксидную смолу и бронируется снаружи лентой стеклоткани для «мертвой» фиксации.
+
+## EN: Mounting Node Geometry
+- **Isolation:** 3-5mm industrial rubber (TMKSh) or polyurethane gaskets between the beam and the frame on all contact surfaces (horizontal and vertical).
+- **Reinforcement:** A "Saddle" (solid 100mm+ filler block) between double bulkheads to support the beam from below.
+- **Load Paths:** Vertical studs for lift/compression; Horizontal studs for torsion/shear.
+
+## RU: Геометрия узла крепления
+- **Изоляция:** Прокладки из техпластины (ТМКЩ) или полиуретана 3-5 мм на всех плоскостях контакта балки и шпангоутов (горизонтальных и вертикальных).
+- **Усиление:** «Седло» (закладной блок 100+ мм) между двойными шпангоутами для опоры балки снизу.
+- **Распределение нагрузок:** Вертикальные шпильки — на отрыв/сжатие; горизонтальные — на кручение/сдвиг.
