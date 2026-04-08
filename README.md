@@ -133,6 +133,37 @@
 - **Safety Margin:** Rudder bottom edge is 200 mm above the keel sole, protected from grounding by the main keel.
 - **Leverage:** Positioning at 10.95 m provides an optimal lever arm for maneuverability.
 
+# Snapshot #5: Rusibra Bulkheads & Demountable System
+# Снапшот №5: Шпангоуты и система разборности Rusibra
+
+## EN: Structural Frames (Bulkheads)
+- **Standard Spacing:** Approximately 1 meter (adjusted for beam locations).
+- **Construction:** Bulkheads are notched to receive the 60mm keelson (interlocking joint).
+- **Bridge Beam Support:** "Double Frame" system at bridge beam locations. The beam sits between two reinforced bulkheads.
+
+## RU: Силовой набор (Шпангоуты)
+- **Основной шаг:** Около 1 метра (корректируется в местах установки балок).
+- **Конструктив:** Шпангоуты имеют пазы для врезки 60-мм кильсона (соединение «в замок»).
+- **Опоры балок моста:** Система «двойного шпангоута». Балка укладывается между двумя усиленными рамками.
+
+## EN: Demountable Connection (Bridge Beams)
+- **Fastening:** 4 studs per beam connection point.
+- **Locking Method:** Nuts are tightened and then sealed with epoxy/fiberglass layers.
+- **Maintenance/Disassembly:** For disassembly, the protective composite layer is cut, and nuts are removed/cut off.
+- **Benefit:** Combines the rigidity of a permanent bond with the possibility of transportation.
+
+## RU: Система разборности (Силовые балки)
+- **Крепление:** 4 шпильки на каждый узел крепления балки.
+- **Фиксация:** Гайки затягиваются и герметизируются слоями стеклоткани на эпоксидной смоле.
+- **Демонтаж:** Для разборки защитный композитный слой срезается, гайки откручиваются или спиливаются.
+- **Преимущество:** Сочетает жесткость монолитного соединения с возможностью транспортировки судна.
+
+## EN: Integration
+- **Keelson-Frame Joint:** Keelson is notched into bulkheads to ensure longitudinal stiffness before skin application.
+
+## RU: Интеграция
+- **Узел Кильсон-Шпангоут:** Кильсон врезается в шпангоуты, обеспечивая продольную жесткость каркаса до момента обшивки.
+
 ## RU: Обоснование и безопасность
 - **Выбор материала:** AISI 316L из-за ударной вязкости и высокой ремонтопригодности.
 - **Защита:** Нижняя кромка руля на 200 мм выше подошвы киля, что защищает его при посадке на мель.
