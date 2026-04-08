@@ -61,3 +61,42 @@
 ### Кормовая секция (Подъем от 2 м от центра, макс. высота 0.55 м):
 - 3 м: 3.6 см | 4 м: 14.5 см | 5 м: 32.5 см | 5.9 м: 55.0 см.
 - **Цель:** Защита рулевой группы и предотвращение «засасывания» кормы.
+
+# Snapshot #3: Rusibra Fin Keel Specification
+# Снапшот №3: Спецификация киля-плавника Rusibra
+
+## EN: Fin Keel Technical Data
+- **Type:** Fin Keel (Symmetrical airfoil, NACA 0012-like).
+- **Dimensions:** Length 3.5 m, Depth/Height 0.45 m.
+- **Thickness:** Tapered from 200 mm (root) to 100 mm (tip).
+- **Shape:** Elliptical planform with a 45-degree leading edge sweep.
+- **Material:** Composite sandwich (Plywood + Fiberglass/Epoxy).
+- **Mounting:** 8-10 M20 studs (Stainless steel or High-strength composite).
+
+## RU: Технические данные киля-плавника
+- **Тип:** Киль-плавник (Симметричный профиль, подобный NACA 0012).
+- **Размеры:** Длина 3.5 м, Глубина/Высота 0.45 м.
+- **Толщина:** Сужение от 200 мм (у корня) до 100 мм (у кончика).
+- **Форма:** Эллиптическая в плане, угол наклона передней кромки — 45 градусов.
+- **Материал:** Композитный сэндвич (Фанера + Стеклоткань/Эпоксидная смола).
+- **Крепление:** 8-10 шпилек M20 (Нержавеющая сталь или высокопрочный композит).
+
+## EN: Positioning & Balance
+- **Location:** Central hull section, from 5.00 m to 8.5 m from the bow.
+- **Center of Lateral Resistance (CLR):** Positioned at 6.75 m for optimal balance with the Center of Effort (CE).
+- **Load Distribution:** Force is distributed across 4+ structural bulkheads/frames.
+
+## RU: Расположение и балансировка
+- **Расположение:** Центральная часть корпуса, в диапазоне от 5.00 м до 8.5 м от форштевня.
+- **Центр бокового сопротивления (ЦБС):** Точка 6.75 м для обеспечения баланса с Центром парусности (ЦП).
+- **Распределение нагрузки:** Нагрузка передается на 4 и более силовых шпангоута.
+
+## EN: Design Rationale
+- **3.5 m Length:** Balance between course stability and maneuverability in marinas.
+- **45° Sweep:** Prevents entanglement with fishing nets and reduces impact loads.
+- **Variable Thickness:** Maximizes structural strength at the root while minimizing hydrodynamic drag.
+
+## RU: Обоснование конструкторских решений
+- **Длина 3.5 м:** Баланс между курсовой устойчивостью и маневренностью в маринах.
+- **Наклон 45°:** Предотвращает наматывание сетей и снижает ударные нагрузки при столкновении с препятствиями.
+- **Переменная толщина:** Максимальная прочность в узле крепления при минимальном гидродинамическом сопротивлении.
