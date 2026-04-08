@@ -218,3 +218,28 @@
 - **Начало по вертикали:** 10 см выше ватерлинии (ВЛ).
 - **Расширение:** по 15 см на каждую сторону (всего +30 см к ширине).
 - **Функция:** Увеличение запаса плавучести и полезного внутреннего объема при сохранении узкого входа в воду для скорости.
+
+# Snapshot #8: Rusibra Hull Width & Overall Beam
+# Снапшот №8: Ширина корпуса и общий габарит Rusibra
+
+## EN: Overall Dimensions
+- **Overall Beam (Bmax_total):** 6.7 meters (Working standard).
+- **Distance between Hull Centers:** ~5.3 meters.
+- **Clear Span (Bridge Deck):** ~3.9 meters between inner hull sides.
+- **Status:** Approved for stability and VVP (Inland Waterways) lock compatibility.
+
+## RU: Общие размерения
+- **Габаритная ширина (Bmax_total):** 6.7 метра (Рабочий стандарт).
+- **Расстояние между осями поплавков:** ~5.3 метра.
+- **Чистый пролет (Мост):** ~3.9 метра между внутренними бортами поплавков.
+- **Статус:** Согласовано исходя из требований остойчивости и габаритов шлюзов ВВП.
+
+## EN: Single Hull Width Logic
+- **Waterline Width:** 1.1 m.
+- **Max Width with Flare:** 1.4 m.
+- **Note:** The 6.7m overall beam allows for optimal righting moment for a 11.8m vessel.
+
+## RU: Логика ширины корпуса
+- **Ширина по ватерлинии:** 1.1 м.
+- **Макс. ширина с «губой»:** 1.4 м.
+- **Примечание:** Общий габарит 6.7 м обеспечивает оптимальный восстанавливающий момент для судна длиной 11.8 м.
