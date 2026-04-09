@@ -643,3 +643,28 @@
 - **Конструктив:** Передняя часть пола каюты (от вспомогательной балки на уровне 1.45 м) поднимается под углом/дугой к основной силовой балке (на уровне 1.95 м).
 - **Цель:** Отражение ударов встречной волны (слемминга), снижение аэродинамического сопротивления и создание жесткой треугольной фермы в носовой части моста.
 - **Сборка:** Радиусный фанерный обтекатель, усиленный 4-6 слоями стеклоткани для защиты от ударов волн и плавающих предметов.
+
+# Snapshot #28: Bridge Ergonomics & Propulsion Layout
+# Снапшот №28: Эргономика моста и компоновка пропульсии
+
+## EN: Double-Level Bridge & Cabin Floor
+- **Main Bridge Clearance:** 1.65 m from baseline (0.9 m from WL).
+- **Secondary Floor Beams:** I-beam design, 1.45 m from baseline (0.7 m from WL).
+- **Headroom:** 1.80 m inside cabin and central hull sections.
+- **Wave Deflector:** Inclined fairing connects the lower floor beam (#3) to the upper structural beam (#3) to prevent slamming.
+
+## RU: Двухуровневый мост и пол рубки
+- **Основной клиренс моста:** 1.65 м от ОЛ (0.9 м над WL).
+- **Вспомогательные балки пола:** Двутавровая конструкция, 1.45 м от ОЛ (0.7 м над WL).
+- **Высота в чистоте:** 1.80 м внутри рубки и центральных секций поплавков.
+- **Волноотбойник:** Наклонный обтекатель соединяет нижнюю балку пола (№3) с верхней силовой балкой (№3) для защиты от ударов волн.
+
+## EN: Stealth Engine Integration
+- **Engine Type:** Twin 20HP 4-stroke outboards (e.g., Parsun F9.9AFWS PRO / F20), Long Shaft (L).
+- **Placement:** Integrated wells under cockpit daybeds (benches).
+- **Function:** Hidden propulsion with reduced noise, better weight distribution (closer to the center), and protection from the elements.
+
+## RU: Скрытая интеграция двигателей
+- **Тип двигателей:** Спарка 4-тактных ПЛМ 20 л.с. (напр. Parsun F9.9AFWS PRO / F20), длинная нога (L).
+- **Размещение:** Интегрированные колодцы под лежанками/диванами кокпита.
+- **Функция:** Скрытая установка с низким уровнем шума, улучшенная развесовка (ближе к центру) и защита двигателей от внешней среды.
