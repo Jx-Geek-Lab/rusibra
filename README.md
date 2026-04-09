@@ -630,3 +630,16 @@
 ## RU: Конструктивные примечания
 - **Настил пола:** Сэндвич (3 мм фанера / 20 мм пенопласт / 3 мм фанера), подшит снизу к вспомогательным балкам.
 - **Хранение:** Пространство между полом и основными балками (высотой 0.5 м) используется как технические рундуки и склады.
+
+# Snapshot #26: Wave-Deflector Design (The Inclined Shield)
+# Снапшот №26: Конструкция волноотбойного щита (Наклонная броня)
+
+## EN: Bow Deflector Geometry
+- **Design:** The forward section of the cabin floor (starting at the secondary beam, 1.45m level) rises at an angle/curve to meet the primary structural beam (1.95m level).
+- **Purpose:** To deflect wave impacts (slamming), reduce drag, and create a rigid triangular box structure at the front of the bridge.
+- **Construction:** Radiused plywood fairing, heavily reinforced with multiple layers of fiberglass (4-6 layers) for log-strike and wave resistance.
+
+## RU: Геометрия носового волноотбойника
+- **Конструктив:** Передняя часть пола каюты (от вспомогательной балки на уровне 1.45 м) поднимается под углом/дугой к основной силовой балке (на уровне 1.95 м).
+- **Цель:** Отражение ударов встречной волны (слемминга), снижение аэродинамического сопротивления и создание жесткой треугольной фермы в носовой части моста.
+- **Сборка:** Радиусный фанерный обтекатель, усиленный 4-6 слоями стеклоткани для защиты от ударов волн и плавающих предметов.
