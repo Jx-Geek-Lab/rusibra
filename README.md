@@ -609,3 +609,24 @@
 - **Днище/Район киля:** 12-15 мм (снижено с 18 мм для экономии веса).
 - **Борта (выше ВЛ):** 9 мм (стандарт для скорости и гибкости).
 - **Ламинирование:** 3-4 слоя стеклоткани ниже ВЛ, 2 слоя выше ВЛ.
+
+# Snapshot #25: Double-Deck Bridge System (The Truss Concept)
+# Снапшот №25: Двухуровневая система моста (Концепция фермы)
+
+## EN: Double-Deck Structural Philosophy
+- **Level 1 (Structural):** Main beams at 1.95m from baseline. Heavy-duty construction, 8-stud mounting. Handles primary torsion and rigging loads.
+- **Level 2 (Living/Floor):** Secondary beams at 1.45m from baseline (0.7m above WL). 1-stud mounting per end. Acts as floor support and lateral brace.
+- **Synergy:** The two levels, connected by cabin walls, form a massive box truss, significantly increasing overall vessel rigidity.
+
+## RU: Двухуровневая силовая схема моста
+- **Уровень 1 (Силовой):** Основные балки на отметке 1.95 м от ОЛ. Сверхмощная конструкция, крепление на 8 шпилек. Несут основные нагрузки на кручение и такелаж.
+- **Уровень 2 (Палубный/Пол):** Вспомогательные балки на отметке 1.45 м от ОЛ (0.7 м над WL). Крепление на 1 шпильку с каждой стороны. Опора для пола и распорка бортов.
+- **Синергия:** Оба уровня, связанные стенками рубки, образуют мощную пространственную ферму, радикально повышая жесткость судна.
+
+## EN: Construction Notes
+- **Floor Deck:** Sandwich (3mm plywood / 20mm foam / 3mm plywood) mounted under the secondary beams.
+- **Storage:** Voids between the floor and the main beams (0.5m height) used as technical lockers and storage.
+
+## RU: Конструктивные примечания
+- **Настил пола:** Сэндвич (3 мм фанера / 20 мм пенопласт / 3 мм фанера), подшит снизу к вспомогательным балкам.
+- **Хранение:** Пространство между полом и основными балками (высотой 0.5 м) используется как технические рундуки и склады.
