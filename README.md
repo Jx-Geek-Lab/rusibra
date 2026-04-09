@@ -586,3 +586,26 @@
 - **Толщина:** Фанера 15-18 мм для силовых шпангоутов; 10-12 мм для промежуточных.
 - **Соединение:** Паз 40х60 мм для врезки в кильсон «в замок».
 - **Доступ:** Герметичные переборки (Г) формируют отсеки непотопляемости.
+
+# Snapshot #23: Composite Stem-Breasthook Design
+# Снапшот №23: Конструкция композитного форштевня-брештука
+
+## EN: Stem-Breasthook Construction
+- **Material:** Double layer of 9mm plywood (18mm total thickness).
+- **Position:** Vertically aligned, running from the stem point (0.0m) to the first structural bulkhead (Frame #1 at 0.50m).
+- **Function:** Direct load transfer from the bow impact zone to the main structural Beam #1. Provides a rigid guide for hull lamination.
+
+## RU: Конструкция форштевня-брештука
+- **Материал:** Двойной слой 9-мм фанеры (суммарно 18 мм).
+- **Расположение:** Вертикально по оси, от точки форштевня (0.0 м) до первого силового шпангоута (0.50 м).
+- **Функция:** Прямая передача нагрузок от зоны удара в носу на основную силовую Балку №1. Служит жесткой направляющей для ламинирования обшивки.
+
+## EN: Updated Hull Thickness (Optimization)
+- **Bottom/Keel area:** 12-15 mm (reduced from 18mm for weight saving).
+- **Sides (Above WL):** 9 mm (standard for speed and flex).
+- **Lamination:** 3-4 layers of fiberglass below WL, 2 layers above.
+
+## RU: Обновленные толщины корпуса (Оптимизация)
+- **Днище/Район киля:** 12-15 мм (снижено с 18 мм для экономии веса).
+- **Борта (выше ВЛ):** 9 мм (стандарт для скорости и гибкости).
+- **Ламинирование:** 3-4 слоя стеклоткани ниже ВЛ, 2 слоя выше ВЛ.
